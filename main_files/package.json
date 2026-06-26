@@ -1,0 +1,7 @@
+{
+  "name": "gitspeak",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
